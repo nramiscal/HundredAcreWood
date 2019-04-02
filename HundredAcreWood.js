@@ -1,4 +1,4 @@
-var tigger = { character: "Tigger" }; // start with just the character attribute
+var tigger = { character: "Tigger" };
 var pooh = { character: "Winnie the Pooh" };
 var piglet = { character: "Piglet"};
 var bees = { character: "Bees"};
